@@ -17,7 +17,7 @@ ${URL} =    https://Tobii.com
 Search For Tobii
     click element  xpath = //*[@class="icon-search"]
     sleep  5s
-    input text  xpath = //*[@class="query-input tt-input"]  career
+    input text  xpath = //*[@class="query-input tt-input"]  careertest
     sleep  2s
 
 
